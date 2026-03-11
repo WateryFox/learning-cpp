@@ -1,2 +1,5 @@
-# learning-cpp
-A collection of C++ scripts, exercises, and experiments covering syntax, data types, and core programming logic.
+This repo is where I'm building out my C++ fundamentals from the ground up. Instead of just jumping into complex apps, I'm using this space to document my understanding of how C++ handles memory, data types, and system output. It’s a key part of my programming portfolio that shows I can work with statically typed languages where every byte and variable type actually matters.
+
+In this project, I’m working directly with the C++ type system to see how different data structures behave. I’ve implemented various primitives, ranging from standard integers and booleans for logic to doubles for high precision math. I've also focused on using the C++ Standard Library correctly specifically <iostream> for console output and <string> for handling text while making sure my namespace resolution (std::) follows clean coding standards.
+
+I've set this up to be compiled using G++, keeping the source code in main.cpp and using a .gitignore to keep the repo clean of any .exe files or build clutter. This project is maintained by Marquis Verino (Leavely) as I continue to expand my stack across Python, C#, and now C++.
